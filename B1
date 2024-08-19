@@ -1,6 +1,6 @@
 Log
 log
-npm-debug.log
+npm-debug
 yarn-debug.log
 yarn-error.log
 lerna-debug.log
