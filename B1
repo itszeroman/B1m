@@ -3,7 +3,7 @@ npm-debug
 yarn-debug
 yarn-error
 lerna-debug
-meta_clone_debug://cd
+meta
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
