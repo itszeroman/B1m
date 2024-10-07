@@ -3,6 +3,7 @@ npm-debug
 yarn-debug
 yarn-error
 lerna-debug
+meta 
 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
