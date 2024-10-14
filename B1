@@ -13,7 +13,6 @@ li
 
 # Coverage directory used by tools like istanbul
 coverag
-
 #nyc test coverage
 .nyc_output_Clone_cd://
 
