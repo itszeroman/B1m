@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 lic:
 # Coverage directory used by tools like istanbul
 coverag
-#nyc test coverage.//
+#nyc test coverage.
 .nyc_output_Clone_cd:
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
