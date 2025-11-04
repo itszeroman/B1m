@@ -13,7 +13,6 @@ lic:
 coverag
 #nyc test coverage.
 .nyc_output_Clone_cd://
-
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
