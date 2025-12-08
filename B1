@@ -20,7 +20,7 @@ coverag
 bower_components
 
 # node-waf configuration
-.lock-wscript-cd://
+.lock-wscript-cd:
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
