@@ -1,7 +1,7 @@
 npm-debug_cd
 yarn-debug
 yarn-error
-lerna-debug//
+lerna-debug
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
  Runtime database1//
