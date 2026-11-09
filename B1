@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 lic:/
 # Coverage directory used by tools like istanbul :
 coverag
-#nyc test coverage
+#nyc test coverage:
 .nyc_output_Clone_cd:
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files) 
@@ -20,7 +20,7 @@ coverag
 bower_components
 
 # node-waf configuration   
-.lock-wscript-cd:
+.lock-wscript-cd://
 # Compiled binary addons (https://nodejs.org/api/addons.html//
 build/Releas 
    
